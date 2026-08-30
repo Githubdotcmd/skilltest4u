@@ -14,9 +14,9 @@ export const Route = createRootRoute({
         content: 'width=device-width, initial-scale=1',
       },
       {
-        title: 'MeritForge · Assessment Command Center',
+        title: 'EIT · Evidence in Teaching',
       },
-      { name: 'description', content: 'A complete university assessment, mentor management, and student testing platform.' },
+      { name: 'description', content: 'EIT is a responsive university assessment, mentor management, and student testing platform.' },
     ],
   }),
   shellComponent: RootDocument,

@@ -1,5 +1,5 @@
 {
-  "name": "meritforge-assessment-portal",
+  "name": "eit-assessment-portal",
   "private": true,
   "type": "module",
   "scripts": {
@@ -19,6 +19,7 @@
     "drizzle-orm": "1.0.0-beta.22",
     "jspdf": "^4.2.1",
     "jspdf-autotable": "^5.0.8",
+    "jszip": "^3.10.1",
     "lucide-react": "0.576.0",
     "react": "19.2.8",
     "react-chartjs-2": "5.3.1",
